@@ -1,0 +1,18 @@
+*{
+    background-color: #E6DBD0;
+}
+#Header{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Center{
+    margin-top: 10%;
+    text-align: center;
+    padding: 1em;
+    display: flex;
+    flex-flow: column;
+    height: 100%;
+    justify-content: space-around;
+}
+
